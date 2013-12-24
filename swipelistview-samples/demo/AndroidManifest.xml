@@ -20,7 +20,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   package="com.fortysevendeg.android.swipelistview" android:versionCode="6" android:versionName="1.13">
 
-  <uses-sdk android:minSdkVersion="8"
+  <uses-sdk android:minSdkVersion="15"
             android:targetSdkVersion="18" />
 
     <application
